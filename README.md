@@ -41,9 +41,9 @@ element-ui组件库快速开发
 
 ## 项目预览
 
-![1623818688486](../../../AppData/Roaming/Typora/typora-user-images/1623818688486.png)
+![1623820226454](assets/1623820226454.png)
 
 
 
-![1623818780958](../../../AppData/Roaming/Typora/typora-user-images/1623818780958.png)
+![1623820254273](assets/1623820254273.png)
 
